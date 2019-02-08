@@ -5,3 +5,6 @@ GitHub proporciona clientes de escritorio que incluyen una interfaz gráfica de u
 
 GitHub para Windows
 http://windows.github.com
+
+GitHub para Mac
+http://mac.github.com
