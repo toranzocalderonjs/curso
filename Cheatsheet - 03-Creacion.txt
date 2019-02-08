@@ -1,0 +1,11 @@
+Crear repositorios
+
+Inicializa un nuevo repositorio u obtiene uno de una URL existente
+
+$ git init [project-name]
+
+Crea un nuevo repositorio local con el nombre especificado
+
+$ git clone [url]
+
+Descarga un proyecto y toda su historial de versiones
