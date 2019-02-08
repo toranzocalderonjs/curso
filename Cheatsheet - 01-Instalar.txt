@@ -8,3 +8,9 @@ http://windows.github.com
 
 GitHub para Mac
 http://mac.github.com
+
+
+Distribuciones de Git para sistemas Linux y POSIX se encuentran disponibles en el sitio web oficial Git SCM.
+
+Git para todas las plataformas
+http://git-scm.com
