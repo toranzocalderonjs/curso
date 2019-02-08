@@ -5,3 +5,5 @@
 * Este repositorio sólo existe para mostrar cómo funcionar y cómo usar **Git** y **GitHub**.
 
 * Contiene instrucciones para instalar Git.
+
+* Contiene instrucciones para manipular versiones del proyecto.

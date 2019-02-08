@@ -25,3 +25,19 @@ Mueve el archivo del área de espera, pero preserva su contenido
 $ git commit -m "[descriptive message]"
 
 Registra los cambios del archivo permanentemente en el historial de versiones
+
+---Nuevos comandos---
+
+Reubica y retira los archivos de los cuales se tiene una versión
+
+$ git rm [file]
+
+Borra el archivo del directorio activo y lo pone en el área de espera en un estado de eliminación
+
+$ git rm --cached [file]
+
+Retira el archivo del historial de control de versiones, pero preserva el archivo a nivel local
+
+$ git mv [file-original] [file-renamed]
+
+Cambia el nombre del archivo y lo prepara para ser guardado
